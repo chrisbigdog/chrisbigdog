@@ -38,7 +38,7 @@ On the side, I am a SEO and python programming enthusiast.
 
 👯‍♀️ I'm looking to collaborate on any Data Science projects.
 
-🤔 I'm looking for help with finding employment opportunites related to Data Science.
+🤔 I'm looking for help with finding employment opportunities related to Data Science.
 
 💬 Ask me about things related to Data Science and Arts :)
 

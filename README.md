@@ -1,4 +1,3 @@
-
 # Hi, I'm Chris Noel. Welcome to my GitHub profile! 👋
 Thank you for visiting!
 
@@ -20,16 +19,15 @@ On the side, I am a SEO and python programming enthusiast.
 ## 🛠 Skills
 1. Python
 2. Machine Learning
-3. Deep Learning
-4. Data Science
-5. A.I. Programming
-6. SQL
-7. Data Visualization with Python
-8. Data Visualization with Tableau
-9. Search Engine Optimization
-10. Google Analytics
-11. Google Keyword Research for SEO
-12. Wordpress Website Development
+3. Data Science
+4. SQL
+5. Data Visualization with Python
+6. Data Visualization with Tableau
+7. Search Engine Optimization
+8. Google Analytics
+9. Google Keyword Research for SEO
+10. Wordpress Website Development
+
 
 ## Other Common Things About Me
 👩‍💻 I'm currently working on doing Data Science Capstone Projects.

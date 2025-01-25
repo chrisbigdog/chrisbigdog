@@ -5,10 +5,9 @@ Thank you for visiting!
 
 
 ## 🚀 About Me
-Recently studied and am soon to complete The Google Data Analytics Professional Certificate under
-Coursera.org.
+Studied The Google Data Analytics Professional Certificate under Coursera.org.
 In August 2022, I completed a 3 months bootcamp partnership course program under The Institute of Data (IOD) and Auckland University of Technology (AUT), to receive an industry-accredited Certificate in Data Science/AI, which involved hands-on technical skills and exposure to current AI practice.
-I am transitioning from a career in the hospitality industry and seeking a full-time role in the field of data analytics and eventually data science.
+From a career in the hospitality industry, I am seeking a full-time role in the field of data analytics and eventually data science.
 
 
 ## 🔗 Links
